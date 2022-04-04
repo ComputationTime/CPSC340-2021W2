@@ -75,3 +75,22 @@ Courses:
 * [A Visual Introduction to Machine Learning (Part 1)](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Machine Learning | What’s Inside the Box?](https://medium.com/@randylaosat/machine-learning-whats-inside-the-box-861f5c7e72a3)
 * [Comments on ML "versus" statistics](https://sgfin.github.io/2020/01/31/Comments-ML-Statistics/)
+
+
+### Math
+
+* [Matrix Calculus Resource](https://explained.ai/matrix-calculus/index.html)
+* [Essence of Linear Algebra](https://www.youtube.com/playlist?app=desktop&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+
+### Find Datasets
+
+* [The NLP Index](https://index.quantumstat.com/)
+* [Open Images V6](https://storage.googleapis.com/openimages/web/index.html)
+* [21 Places to Find Datasets](https://www.dataquest.io/blog/free-datasets-for-projects/)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+
+### Bonus
+
+* [Andrew Ng's Career Advice/Reading Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
