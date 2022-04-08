@@ -51,5 +51,5 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 | 31 | Wed Mar 30 <br> | [Convolutions](lectures/L31.pdf?raw=1)    | Jeff   |  [Companion notebook](notebooks/L34demo_convolution-cnn.ipynb)   |      |
 | 32 | Fri Apr 1 <br> | [Convolutional Neural Networks](lectures/L32.pdf?raw=1)  | Jeff  | [Companion notebook](notebooks/L35demo-cnn-pretrained.ipynb), [Convolutional Neural Networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)<br>ML:APP 28.4, ESL 11.7   | [Week 10 Tutorials](tutorials/week10) |
 | 33 | Mon Apr 4<br> | [More CNNs](lectures/L33.pdf?raw=1) | Jeff | |  |
-|    | Wed Apr 6<br> | **Guest Lecture**   |  |    |
+|    | Wed Apr 6<br> | [AI Neuroscience (and bonus material)](lectures/L33.5-Bonus-AI-Neuroscience-compressed.pdf?raw=1)    | Jeff  |    |
 | 34 | Fri Apr 8<br> | [Conclusion](lectures/L34.pdf?raw=1) |  both |  | Assignment 6 due      |
